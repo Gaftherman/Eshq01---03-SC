@@ -32,6 +32,7 @@ Cambio no tan relevantes :
 Links : 
 *Eshq original.
 https://www.moddb.com/mods/eshq
+
 *Modelos de las armas (solo quite las manos recoloridas que tenia).
 https://gamebanana.com/skins/180411
 
