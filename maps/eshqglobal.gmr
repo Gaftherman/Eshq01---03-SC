@@ -118,6 +118,7 @@
 "models/hassassin.mdl" "models/eshq/enemi/hassassin.mdl"
 "models/hassassinf.mdl" "models/eshq/enemi/hassassinf.mdl"
 "models/pit_drone.mdl" "models/eshq/enemi/pit_drone.mdl"
+"models/zombie.mdl" "models/eshq/enemi/zombie.mdl"
 
 "models/hlclassic/barney.mdl" "models/eshq/enemi/barneyv1_.mdl"
 "models/hlclassic/gman.mdl" "models/eshq/enemi/gman.mdl"
@@ -128,3 +129,4 @@
 "models/hlclassic/hassassin.mdl" "models/eshq/enemi/hassassin.mdl"
 "models/hlclassic/hassassinf.mdl" "models/eshq/enemi/hassassinf.mdl"
 "models/hlclassic/pit_drone.mdl" "models/eshq/enemi/pit_drone.mdl"
+"models/hlclassic/zombie.mdl" "models/eshq/enemi/zombie.mdl"
