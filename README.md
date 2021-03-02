@@ -30,6 +30,7 @@ Cambio no tan relevantes :
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
 
 Links : 
+
 *Eshq original.
 https://www.moddb.com/mods/eshq
 
