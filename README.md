@@ -28,3 +28,11 @@ Cambio no tan relevantes :
 * Los modelos de las armas son HD.
 * Algunos modelos como los hgrunts(Human grunt) son los modelos que se tenian en el eshq original.
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
+
+Links : 
+*Eshq original.
+https://www.moddb.com/mods/eshq
+*Modelos de las armas (solo quite las manos recoloridas que tenia).
+https://gamebanana.com/skins/180411
+
+Se uso como base el antiguo eshq con 66% portado para sc. Solo lo adapte hacia la ultima vesion disponible de Eshq.
