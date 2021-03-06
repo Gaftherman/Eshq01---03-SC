@@ -21,6 +21,8 @@ models/eshq/enemi/hgruntv1_02.mdl
 models/eshq/enemi/hgruntv1_03.mdl
 models/eshq/enemi/pit_drone.mdl
 models/eshq/enemi/zombie2.mdl
+models/eshq/enemi/apache.mdl
+models/eshq/enemi/apachet.mdl
 models/eshq/objects/simplefork.mdl
 models/eshq/p_357.mdl
 models/eshq/p_9mmar.mdl

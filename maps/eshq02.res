@@ -21,8 +21,9 @@ models/eshq/enemi/hgruntv1_01.mdl
 models/eshq/enemi/hgruntv1_02.mdl
 models/eshq/enemi/hgruntv1_03.mdl
 models/eshq/enemi/pit_drone.mdl
-models/eshq/enemi/pit_drone_spike.mdl
 models/eshq/enemi/zombie2.mdl
+models/eshq/enemi/apache.mdl
+models/eshq/enemi/apachet.mdl
 models/eshq/objects/bath.mdl
 models/eshq/objects/bed.mdl
 models/eshq/objects/bigspiggot.mdl
