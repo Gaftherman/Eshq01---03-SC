@@ -54,9 +54,9 @@ class weapon_hlshotgun : ScriptBasePlayerWeaponEntity
 	void Precache()
 	{
 		self.PrecacheCustomModels();
-		g_Game.PrecacheModel( "models/hl/v_shotgun.mdl" );
-		g_Game.PrecacheModel( "models/hl/w_shotgun.mdl" );
-		g_Game.PrecacheModel( "models/hl/p_shotgun.mdl" );
+		g_Game.PrecacheModel( "models/v_shotgun.mdl" );
+		g_Game.PrecacheModel( "models/w_shotgun.mdl" );
+		g_Game.PrecacheModel( "models/p_shotgun.mdl" );
 
 		m_iShell = g_Game.PrecacheModel( "models/shotgunshell.mdl" );// shotgun shell
 
