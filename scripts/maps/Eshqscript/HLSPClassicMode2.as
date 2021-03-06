@@ -2,9 +2,9 @@
 * This script implements HLSP specific Classic Mode features
 */
 
-#include "Eshqscript/weapon_hl357"
-#include "Eshqscript/weapon_hlshotgun"
-#include "Eshqscript/item_healthkit2"
+#include "weapon_hl357"
+#include "weapon_hlshotgun"
+#include "item_healthkit2"
 
 array<ItemMapping@> g_ItemMappings = {
 	ItemMapping( "weapon_m16", "weapon_9mmAR" ),
