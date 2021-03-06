@@ -44,7 +44,7 @@ class weapon_hlshotgun : ScriptBasePlayerWeaponEntity
 	void Spawn()
 	{
 		Precache();
-		g_EntityFuncs.SetModel( self, "models/hl/w_shotgun.mdl" );
+		g_EntityFuncs.SetModel( self, "models/w_shotgun.mdl" );
 		
 		self.m_iDefaultAmmo = SHOTGUN_DEFAULT_AMMO;
 
