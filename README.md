@@ -1,4 +1,4 @@
-# Eshq01---06-SC
+# Eshq01---07-SC
 
 Importante :
 
@@ -14,17 +14,19 @@ Pit Drone :
 
 Zombie :
 
-* Su velocidad de movimiento a sido aumentada en un 35%.
-* Su velocidad de ataque a sido aumentada en un 45%.
+* Su velocidad de movimiento a sido aumentada en un 25%.
+* Su velocidad de ataque a sido aumentada en un 35%.
 
 Human assassin (female) :
 
-* Su velocidad de movimiento a sido aumentada en un 50%.
+* Su velocidad de movimiento a sido aumentada en un 45%.
 * Su velocidad de ataque - disparo a sido aumentado en un 40%.
 * Tira 2 granadas en lugar de una (Ten cuidado).
 
 Cambio no tan relevantes :
 
+* Se elimino algunos models para optimizar la descarga (?.
+* Se cambio y aumento algunos script.
 * Los modelos de las armas son HD.
 * Algunos modelos como los hgrunts(Human grunt) son los modelos que se tenian en el eshq original.
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
