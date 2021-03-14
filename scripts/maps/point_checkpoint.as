@@ -123,7 +123,7 @@ class point_checkpoint : ScriptBaseAnimating
 		if( self.pev.vuser1 != g_vecZero && self.pev.vuser2 != g_vecZero )
 			g_EntityFuncs.SetSize( self.pev, self.pev.vuser1, self.pev.vuser2 );
 		else
-			g_EntityFuncs.SetSize( self.pev, Vector( -64, -64, -36 ), Vector( 64, 64, 36 ) );
+			g_EntityFuncs.SetSize( self.pev, Vector( -8, -8, -16 ), Vector( 8, 8, 16 ) );
 			
 		SetAnim( 0 ); // set sequence to 0 aka idle
 			
@@ -199,6 +199,9 @@ class point_checkpoint : ScriptBaseAnimating
 	{
 		if( !IsEnabled() || IsActivated() || !pOther.IsPlayer() )
 			return;
+		
+		g_Game.AlertMessage( at_logged, "CHECKPOINT: \"%1\" activated Checkpoint\n", pOther.pev.netname );
+		g_PlayerFuncs.ClientPrintAll( HUD_PRINTTALK, "" + pOther.pev.netname + " just activated a Respawn-Point.\n" );
 		
 		// Set activated
 		self.pev.frags = 1.0f;
@@ -296,7 +299,7 @@ class point_checkpoint : ScriptBaseAnimating
 			
 			//Only respawn if the player died before this checkpoint was activated
 			//Prevents exploitation
-			if( pPlayer !is null && !pPlayer.IsAlive() && pPlayer.m_fDeadTime < m_flRespawnStartTime )
+			if( pPlayer !is null && pPlayer.IsConnected() && !pPlayer.IsAlive() && pPlayer.m_fDeadTime < m_flRespawnStartTime )
 			{
 				//Revive player and move to this checkpoint
 				pPlayer.GetObserver().RemoveDeadBody();

@@ -24,12 +24,12 @@ maps/eshq04.bsp
 maps/eshq04.res
 maps/eshq05.bsp
 maps/eshq05.res
+maps/eshq06.bsp
 maps/eshq06.res
 maps/eshq07.bsp
 maps/eshq07.res
 maps/eshq08.bsp
 maps/eshq08.res
-maps/eshq09.bsp
 maps/eshq09.res
 maps/eshqglobal.gmr
 models/cubemath/chars/d6.mdl
