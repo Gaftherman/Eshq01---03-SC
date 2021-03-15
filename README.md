@@ -30,7 +30,7 @@ Human assassin (female) :
 
 Cambio no tan relevantes :
 
-* El .wad ha sido cambiado ligeramente
+* El .wad ha sido cambiado ligeramente (15/03/2021)
 * Los modelos de las armas son HD.
 * Algunos modelos como los hgrunts(Human grunt) son los modelos que se tenian en el eshq original.
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
