@@ -23,6 +23,7 @@ models/eshq/enemi/hgruntv1_02.mdl
 models/eshq/enemi/hgruntv1_03.mdl
 models/eshq/enemi/pit_drone.mdl
 models/eshq/enemi/zombie2.mdl
+models/eshq/enemi/zombie_soldier.mdl
 models/eshq/objects/bath.mdl
 models/eshq/objects/bed.mdl
 models/eshq/objects/bigspiggot.mdl
