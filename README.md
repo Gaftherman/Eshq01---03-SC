@@ -1,4 +1,4 @@
-# Eshq01---09-SC
+# Eshq01---10-SC
 
 Importante :
 
@@ -16,6 +16,11 @@ Zombie :
 
 * Su velocidad de movimiento a sido aumentada en un 35%.
 * Su velocidad de ataque a sido aumentada en un 45%.
+
+Zombie grunt :
+
+* Model LD.
+* Su hitbox de la cabeza fue cambiada por una generica.
 
 Human assassin (female) :
 
