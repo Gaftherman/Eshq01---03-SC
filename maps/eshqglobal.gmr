@@ -117,6 +117,7 @@
 "models/zombie.mdl" "models/eshq/enemi/zombie2.mdl"
 "models/apachet.mdl" "models/eshq/enemi/apachet.mdl"
 "models/apache.mdl" "models/eshq/enemi/apache.mdl"
+"models/zombie_soldier.mdl" "models/eshq/enemi/zombie_soldier.mdl"
 
 "models/hlclassic/apachet.mdl" "models/eshq/enemi/apachet.mdl"
 "models/hlclassic/apache.mdl" "models/eshq/enemi/apache.mdl"
@@ -126,4 +127,5 @@
 "models/hlclassic/hassassinf.mdl" "models/eshq/enemi/hassassinf.mdl"
 "models/hlclassic/pit_drone.mdl" "models/eshq/enemi/pit_drone.mdl"
 "models/hlclassic/zombie.mdl" "models/eshq/enemi/zombie2.mdl"
+"models/hlclassic/zombie_soldier.mdl" "models/eshq/enemi/zombie_soldier.mdl"
 
