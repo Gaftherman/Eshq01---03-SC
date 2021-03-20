@@ -1,4 +1,4 @@
-# Eshq01---10-SC
+# Eshq01_v10---10_v10-SC
 
 Importante :
 
@@ -28,9 +28,16 @@ Human assassin (female) :
 * Su velocidad de ataque - disparo a sido aumentado en un 40%.
 * Tira 2 granadas en lugar de una (Ten cuidado).
 
+.Wad :
+
+* El .wad ha sido cambiado ligeramente (15/03/2021).
+
+Nombre de los mapas :
+
+* Se cambio el nombre de los mapas para que haya interferencias con la antigua version del mapa. 
+
 Cambio no tan relevantes :
 
-* El .wad ha sido cambiado ligeramente (15/03/2021)
 * Los modelos de las armas son HD.
 * Algunos modelos como los hgrunts(Human grunt) son los modelos que se tenian en el eshq original.
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
