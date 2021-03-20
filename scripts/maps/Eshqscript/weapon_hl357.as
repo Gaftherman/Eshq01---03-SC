@@ -3,7 +3,7 @@
 */
 
 const int PYTHON_DEFAULT_GIVE = 6;
-const int _357_MAX_CARRY = 30;
+const int _357_MAX_CARRY = 36;
 const int PYTHON_MAX_CLIP = 6;
 const int PYTHON_WEIGHT = 15;
 
