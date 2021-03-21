@@ -24,11 +24,7 @@ models/eshq/enemi/hgruntv1_03.mdl
 models/eshq/enemi/pit_drone.mdl
 models/eshq/enemi/zombie2.mdl
 models/eshq/enemi/zombie_soldier.mdl
-sound/eshqvoice/ambience/crtnoise.wav
 sound/eshqvoice/ambience/electramb1.wav
-sound/eshqvoice/ambience/rocketrumble1.wav
-sound/eshqvoice/ambience/warn3.wav
-sound/eshqvoice/ambience/wind2.wav
 sound/eshqvoice/eshq_sentences.txt
 sprites/cubemath/weapon_debug.txt
 sprites/hl_weapons/weapon_hl357.txt
