@@ -12,8 +12,6 @@ maps/eshq02.res
 maps/eshqglobal.gmr
 models/cubemath/chars/d6.mdl
 models/cubemath/chars/percent.mdl
-models/eshq/enemi/apache.mdl
-models/eshq/enemi/apachet.mdl
 models/eshq/enemi/hassassin.mdl
 models/eshq/enemi/hassassinf.mdl
 models/eshq/enemi/pit_drone.mdl

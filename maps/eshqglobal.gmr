@@ -1,16 +1,11 @@
-"models/gman.mdl" "models/eshq/enemi/gman.mdl"
+
 "models/hgrunt.mdl" "models/eshq/enemi/hgruntv1_.mdl"
 "models/hassassin.mdl" "models/eshq/enemi/hassassin.mdl"
 "models/hassassinf.mdl" "models/eshq/enemi/hassassinf.mdl"
 "models/pit_drone.mdl" "models/eshq/enemi/pit_drone.mdl"
 "models/zombie.mdl" "models/eshq/enemi/zombie2.mdl"
-"models/apachet.mdl" "models/eshq/enemi/apachet.mdl"
-"models/apache.mdl" "models/eshq/enemi/apache.mdl"
 "models/zombie_soldier.mdl" "models/eshq/enemi/zombie_soldier.mdl"
 
-"models/hlclassic/apachet.mdl" "models/eshq/enemi/apachet.mdl"
-"models/hlclassic/apache.mdl" "models/eshq/enemi/apache.mdl"
-"models/hlclassic/gman.mdl" "models/eshq/enemi/gman.mdl"
 "models/hlclassic/hgrunt.mdl" "models/eshq/enemi/hgruntv1_.mdl"
 "models/hlclassic/hassassin.mdl" "models/eshq/enemi/hassassin.mdl"
 "models/hlclassic/hassassinf.mdl" "models/eshq/enemi/hassassinf.mdl"

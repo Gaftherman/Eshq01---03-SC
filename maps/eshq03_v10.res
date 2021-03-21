@@ -12,9 +12,6 @@ maps/eshq03.res
 maps/eshqglobal.gmr
 models/cubemath/chars/d6.mdl
 models/cubemath/chars/percent.mdl
-models/eshq/enemi/apache.mdl
-models/eshq/enemi/apachet.mdl
-models/eshq/enemi/gman.mdl
 models/eshq/enemi/hgruntv1_.mdl
 models/eshq/enemi/hgruntv1_01.mdl
 models/eshq/enemi/hgruntv1_02.mdl
