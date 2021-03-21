@@ -41,7 +41,7 @@ Cambio no tan relevantes :
 * Se elmino los modelos HD de las armas aunque siguen estando dentro de los archivos (Optimizar la descarga de los demas jugadores).
 * Algunos modelos como los hgrunts (Human grunt) son los modelos que se tenian en el eshq original.
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
-* Se añadio un Old .res (Esta habilitado los modelos HD de las armas) y un Old .bsp (Mapas que no estoy 100% seguro de eliminar)
+* Se añadio un Old .res (Esta habilitado los modelos HD de las armas) y un Old .bsp (Mapas que no estoy 100% seguro de eliminar).
 
 
 
