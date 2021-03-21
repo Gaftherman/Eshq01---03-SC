@@ -21,6 +21,9 @@ M08E07 eshqvoice/gman/m08e07
 M08E08 eshqvoice/gman/m08e08
 M09F01 eshqvoice/gman/m09f01
 M10F01 eshqvoice/gman/m10f01
+M11F01 eshqvoice/gman/m11f01
+M11F02 eshqvoice/gman/m11f02
+M11F03 eshqvoice/gman/m11f03
 
 // ESHQ01, starting
 ESHQ01_1 player/pl_ladder1. pl_ladder2. pl_ladder3. pl_ladder4. pl_ladder3. pl_ladder1. pl_ladder4. pl_ladder2. pl_ladder1. pl_ladder4. pl_ladder3. pl_ladder2. pl_ladder3. pl_ladder1. pl_ladder4
