@@ -38,7 +38,7 @@ Nombre de los mapas :
 
 Cambio no tan relevantes :
 
-* Los modelos de las armas son HD.
+* Se elmino los modelos HD de las armas (optimizar la descarga de los demas jugadores)
 * Algunos modelos como los hgrunts(Human grunt) son los modelos que se tenian en el eshq original.
 * Se añadio sistemas antirush (66% en los finales de los mapas) para los que rushean.
 
