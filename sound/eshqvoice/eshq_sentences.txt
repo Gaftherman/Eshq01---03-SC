@@ -24,6 +24,16 @@ M10F01 eshqvoice/gman/m10f01
 M11F01 eshqvoice/gman/m11f01
 M11F02 eshqvoice/gman/m11f02
 M11F03 eshqvoice/gman/m11f03
+M13E09 eshqvoice/gman/m13e09
+M13E10 eshqvoice/gman/m13e10
+M13F01 eshqvoice/gman/m13f01
+M13F02 eshqvoice/gman/m13f02
+M13F03 eshqvoice/gman/m13f03
+M13F04 eshqvoice/gman/m13f04
+M13F05 eshqvoice/gman/m13f05
+M13F06 eshqvoice/gman/m13f06
+M13F07 eshqvoice/gman/m13f07
+M13F08 eshqvoice/gman/m13f08
 
 // ESHQ01, starting
 ESHQ01_1 player/pl_ladder1. pl_ladder2. pl_ladder3. pl_ladder4. pl_ladder3. pl_ladder1. pl_ladder4. pl_ladder2. pl_ladder1. pl_ladder4. pl_ladder3. pl_ladder2. pl_ladder3. pl_ladder1. pl_ladder4
